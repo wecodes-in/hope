@@ -42,10 +42,10 @@ const Impact = () => {
 
   const successStories = [
     {
-      name: "Meera Devi",
+      name: "M.K",
       location: "Rajasthan",
       story: "From a housewife to a successful entrepreneur, Meera now runs a tailoring business employing 15 women in her village.",
-      image: "https://images.unsplash.com/photo-1494790108755-2616c9c0e8e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
       impact: "Empowered 15+ women"
     },
     {

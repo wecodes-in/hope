@@ -33,10 +33,10 @@ const About = () => {
   ]
 
   const achievements = [
-    { number: "250+", label: "Children Impacted" },
-    { number: "150+", label: "Schools Partnered" },
+    { number: "20+", label: "Children Impacted" },
+    { number: "10+", label: "Schools Partnered" },
     { number: "12+", label: "Years of Impact" },
-    { number: "250+", label: "Volunteers" }
+    { number: "20+", label: "Volunteers" }
   ]
 
   return (

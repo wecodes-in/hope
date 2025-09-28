@@ -19,9 +19,9 @@ const Testimonials = () => {
       rating: 5
     },
     {
-      name: "Priya Patel",
+      name: "P. Patel",
       role: "Women's Self-Help Group Leader",
-      image: "https://images.unsplash.com/photo-1494790108755-2616c9c0e8e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
       quote: "Through Hope Foundation's microfinance program, I was able to start my own business. Today, I employ 20 women from my community. They didn't just give us money; they gave us hope and dignity.",
       rating: 5
     },
