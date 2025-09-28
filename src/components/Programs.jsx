@@ -48,8 +48,7 @@ const Programs = () => {
       title: "Life Skills Training",
       description: "Comprehensive life skills and career guidance programs to prepare children for their future beyond education.",
       image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      stats: [mao
-        
+      stats: [
         { label: "Youth Trained", value: "8,000+" },
         { label: "Career Sessions", value: "1,200+" },
         { label: "Job Placements", value: "500+" }
