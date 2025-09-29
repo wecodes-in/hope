@@ -42,7 +42,7 @@ const Contact = () => {
         </svg>
       ),
       title: "Head Office",
-      details: ["Adresh Antriksh Golf View 1", "Noida - 78", "India"]
+      details: ["Address: Antriksh Golf View 1", "Noida - 78", "India"]
     },
     {
       icon: (

@@ -156,7 +156,7 @@ const Footer = () => {
             <div>
               <h5 className="font-semibold mb-3">Head Office</h5>
               <p className="text-gray-300 text-sm leading-relaxed">
-                Adresh Antriksh Golf View 1<br />
+                Address: Antriksh Golf View 1<br />
                 Noida - 78<br />
                 India
               </p>
