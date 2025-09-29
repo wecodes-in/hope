@@ -234,20 +234,7 @@ const Contact = () => {
               ))}
             </div>
 
-            {/* Regional Offices */}
-            <div className="card p-6">
-              <h4 className="text-xl font-bold text-gray-900 mb-4">Regional Offices</h4>
-              <div className="space-y-4">
-                {offices.map((office, index) => (
-                  <div key={index} className="border-l-4 border-primary-600 pl-4">
-                    <h5 className="font-semibold text-gray-900">{office.city}</h5>
-                    <p className="text-sm text-gray-600">{office.address}</p>
-                    <p className="text-sm text-gray-600">{office.phone}</p>
-                    <p className="text-sm text-primary-600">{office.email}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
+       
 
             {/* Social Media */}
             <div className="card p-6">
