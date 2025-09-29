@@ -49,7 +49,7 @@ const Footer = () => {
                 </svg>
               </div>
               <div>
-                <h3 className="text-xl font-bold">Hope Foundation</h3>
+                <h3 className="text-xl font-bold">Empower Seva Foundation</h3>
                 <p className="text-sm text-gray-400">Empowering Communities</p>
               </div>
             </div>
@@ -156,8 +156,8 @@ const Footer = () => {
             <div>
               <h5 className="font-semibold mb-3">Head Office</h5>
               <p className="text-gray-300 text-sm leading-relaxed">
-                123 Gandhi Nagar<br />
-                New Delhi - 110001<br />
+                Adresh Antriksh Golf View 1<br />
+                Noida - 78<br />
                 India
               </p>
             </div>
@@ -165,8 +165,8 @@ const Footer = () => {
               <h5 className="font-semibold mb-3">Contact</h5>
               <p className="text-gray-300 text-sm leading-relaxed">
                 Phone: +91 11 2345 6789<br />
-                Email: info@hopefoundation.org<br />
-                Volunteer: volunteer@hopefoundation.org
+                Email: info@empowersevafoundation.com<br />
+                Volunteer: volunteer@empowersevafoundation.com
               </p>
             </div>
             <div>
@@ -208,7 +208,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-center md:text-left">
             <div className="text-gray-400 text-sm">
-              © 2024 Hope Foundation. All rights reserved. | Reg. No: 12345/2008
+              © 2024 Empower Seva Foundation. All rights reserved. | Reg. No: 12345/2008
             </div>
             <div className="flex flex-wrap justify-center md:justify-end space-x-4 sm:space-x-6">
               {legalLinks.map((link, index) => (

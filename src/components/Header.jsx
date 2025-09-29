@@ -19,7 +19,7 @@ const Header = () => {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Hope Foundation</h1>
+              <h1 className="text-xl font-bold text-gray-900">Empower Seva Foundation</h1>
               <p className="text-xs text-gray-500">Empowering Communities</p>
             </div>
           </div>

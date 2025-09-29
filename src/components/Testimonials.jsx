@@ -8,35 +8,35 @@ const Testimonials = () => {
       name: "Dr. Anjali Verma",
       role: "Medical Officer, AIIMS Delhi",
       image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
-      quote: "Hope Foundation's healthcare initiatives have been instrumental in reaching the most vulnerable populations. Their mobile health units have saved countless lives in remote areas where medical care was previously inaccessible.",
+      quote: "Empower Seva Foundation's healthcare initiatives have been instrumental in reaching the most vulnerable populations. Their mobile health units have saved countless lives in remote areas where medical care was previously inaccessible.",
       rating: 5
     },
     {
       name: "Rajesh Gupta",
       role: "Village Sarpanch, Uttar Pradesh",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
-      quote: "The digital learning center established by Hope Foundation has transformed education in our village. Children who never had access to computers are now learning coding and digital skills. It's truly remarkable.",
+      quote: "The digital learning center established by Empower Seva Foundation has transformed education in our village. Children who never had access to computers are now learning coding and digital skills. It's truly remarkable.",
       rating: 5
     },
     {
       name: "P. Patel",
       role: "Women's Self-Help Group Leader",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
-      quote: "Through Hope Foundation's microfinance program, I was able to start my own business. Today, I employ 20 women from my community. They didn't just give us money; they gave us hope and dignity.",
+      quote: "Through Empower Seva Foundation's microfinance program, I was able to start my own business. Today, I employ 20 women from my community. They didn't just give us money; they gave us hope and dignity.",
       rating: 5
     },
     {
       name: "Prof. Suresh Kumar",
       role: "Education Researcher, JNU",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
-      quote: "Hope Foundation's approach to education is holistic and sustainable. They don't just build schools; they create learning ecosystems that involve the entire community. Their impact is measurable and lasting.",
+      quote: "Empower Seva Foundation's approach to education is holistic and sustainable. They don't just build schools; they create learning ecosystems that involve the entire community. Their impact is measurable and lasting.",
       rating: 5
     },
     {
       name: "Kavita Singh",
       role: "Volunteer Coordinator",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
-      quote: "Volunteering with Hope Foundation has been life-changing. The organization's transparency, dedication, and genuine care for communities is evident in every project. I'm proud to be part of this mission.",
+      quote: "Volunteering with Empower Seva Foundation has been life-changing. The organization's transparency, dedication, and genuine care for communities is evident in every project. I'm proud to be part of this mission.",
       rating: 5
     }
   ]

@@ -42,7 +42,7 @@ const Contact = () => {
         </svg>
       ),
       title: "Head Office",
-      details: ["123 Gandhi Nagar", "New Delhi - 110001", "India"]
+      details: ["Adresh Antriksh Golf View 1", "Noida - 78", "India"]
     },
     {
       icon: (
@@ -60,7 +60,7 @@ const Contact = () => {
         </svg>
       ),
       title: "Email",
-      details: ["info@hopefoundation.org", "volunteer@hopefoundation.org"]
+      details: ["info@empowersevafoundation.com", "volunteer@empowersevafoundation.com"]
     },
     {
       icon: (
@@ -78,19 +78,19 @@ const Contact = () => {
       city: "Mumbai",
       address: "456 Marine Drive, Mumbai - 400001",
       phone: "+91 22 2345 6789",
-      email: "mumbai@hopefoundation.org"
+      email: "mumbai@empowersevafoundation.com"
     },
     {
       city: "Bangalore",
       address: "789 MG Road, Bangalore - 560001",
       phone: "+91 80 2345 6789",
-      email: "bangalore@hopefoundation.org"
+      email: "bangalore@empowersevafoundation.com"
     },
     {
       city: "Chennai",
       address: "321 Anna Salai, Chennai - 600002",
       phone: "+91 44 2345 6789",
-      email: "chennai@hopefoundation.org"
+      email: "chennai@empowersevafoundation.com"
     }
   ]
 
