@@ -38,9 +38,9 @@ const Header = () => {
             <a href="#impact" className="text-gray-700 hover:text-primary-600 font-medium transition-colors py-2">
               Impact
             </a>
-            <a href="#testimonials" className="text-gray-700 hover:text-primary-600 font-medium transition-colors py-2">
+            {/* <a href="#testimonials" className="text-gray-700 hover:text-primary-600 font-medium transition-colors py-2">
               Stories
-            </a>
+            </a> */}
             <a href="#contact" className="text-gray-700 hover:text-primary-600 font-medium transition-colors py-2">
               Contact
             </a>
